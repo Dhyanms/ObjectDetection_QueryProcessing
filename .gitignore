@@ -13,3 +13,4 @@ output/
 # Virtual Environment
 venv/
 env/
+.DS_Store
